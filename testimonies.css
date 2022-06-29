@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+    font-family: 'Joan', serif;
+}
+:root{
+    --main-color:white;
+}
+.theme-text{
+    color: var(--main-color);
+}
+.act{
+    color:var(--main-color) !important;
+    border-bottom: 2px solid var(--main-color) ;
+}
+.navbar-brand{
+    color: var(--main-color) !important;
+}
+.img{
+    width: 150px;
+    
+}
+.act{
+color: var(--main-color) !important;
+border-bottom: 1px solid var(--main-color);
+}
+.navbar ul li a:hover{
+    color: var(--main-color) !important;
+border-bottom: 1px solid var(--main-color);
+}
+.header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.6)), 
+    url("https://media.istockphoto.com/photos/christian-group-of-people-holding-hands-praying-worship-to-believe-picture-id1360520573?b=1&k=20&m=1360520573&s=170667a&w=0&h=eLicp_ICbBGvbSe_kpumrxN_yZaG-aTBhhmvDJ_463c=");
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 90px;
+}
+
+.services{
+    font-size: 100px;
+    font-family: aktiv-grotesk;
+}
+.visit{
+font-size: 28px;
+font-family: aktiv-grotesk,sans-serif;
+}
+.join{
+    font-family:Anto, sans-serif;
+}
+.sure{
+    font-family:'Anton', sans-serif;
+    font-weight: 700;
+}
+#start{
+    margin-top: 70px;
+}
+.a:hover{
+color: burlywood;
+font-size: large;
+}
+.a{
+    color: white;
+}
+#title{
+font-weight: 700;
+
+}
+.worry{
+font-family:cursive ;
+font-size: 20px;
+}
+.page{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.services{
+    color: white;
+}
+.find{
+    color: white;
+}
+#deep{
+    font-family: nunito,sans-serif;
+    font-weight: 800;
+}
+#with{
+    font-family: Joan,sans-serif;
+    font-style: italic;
+}
+#go{
+    text-decoration: underline;
+}
+#link{
+    padding-left: 20px;
+}
+.card-text{
+    font-size: 25px;
+}
+.section{
+    margin-top: 30px;
+}
+
+.what{
+    margin-top: 70px;
+    font-family: 'Tiro Telugu', serif;
+    font-size: 50px;
+}
+.words{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    color:black;
+    text-decoration: dashed;
+}
+.word{
+    border: 2px solid black;
+    font-size: 40px;
+    color:white;
+    background-color: black;
+}
+.w{
+        font-size: 20px;
+        color:white;
+    }
+.wor{
+    margin: 0;
+    padding: 0;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: black;   
+}
+
+.footer{
+    background-color:#338fe0f2;
+    }
+    
+#row{
+    font-size: 25px;
+    margin-top: 40px;
+}
+.font{
+    font-size: 30px;
+    color: black;
+    margin-top: 40px;
+}
+.copy{
+    color: black;
+    margin-top: 50px;
+font-size: 16px;
+font-family: Roboto,sans-serif;
+}
